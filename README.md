@@ -1,7 +1,7 @@
 # CRM One mobile para SAP Business One
 
 CRM One para SAP Business One, é um aplicativo android que desenvolvi quando trabalhei na DWU It Solutions, 
-e que devido ao termo assinado por mim, de propriedade intelectual da empresa, seu código fonte não pode ser compartilhado.
+e que devido ao termo assinado por mim, declarando que o código é propriedade intelectual da empresa, seu código fonte não pode ser compartilhado.
 
 ## Sobre o aplicativo
 
@@ -13,7 +13,7 @@ e posteriomente, quando houver conexão com a internet, ele poderá realizar a s
 
 ## Link do app na google play
 
-Até o presente momento o app ainda se encotra disponivel na loja
+Até o presente momento o app ainda se encotra disponivel na loja - 20/01/2021
 [Link do aplicativo: https://play.google.com/store/apps/details?id=br.com.dwu.crmone.mobile](https://play.google.com/store/apps/details?id=br.com.dwu.crmone.mobile)
 
 ## Telas
