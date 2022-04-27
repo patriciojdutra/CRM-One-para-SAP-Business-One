@@ -8,7 +8,7 @@ e que devido ao termo assinado por mim, declarando que o código é propriedade 
 O CRM One mobile é um aplicativo integrado ao CRM SAP Business One, podendo assim trabalhar remotamente,
 e de forma online e offline, o app possui diversas funcionalidades, entre elas, cadastro de cliente, clientes próximos, lista de clientes, 
 cotação, pedido, atendimento, oportunidade de vendas e muitas outras.
-O app possui um banco de dados interno, com as mesma estrutura e regras do banco da SAP, e isso posibilita o usuário executar todas as funcionalidades do app, mesmo offline,
+O app possui um banco de dados interno, com a mesma estrutura e regra do banco da SAP, e isso posibilita o usuário executar todas as funcionalidades do app, mesmo offline,
 e posteriomente, quando houver conexão com a internet, ele poderá realizar a sincronização.
 
 ## Link do app na google play
